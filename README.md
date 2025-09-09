@@ -1,1 +1,2 @@
-"Dƒy l… README t? nh nh main." 
+Ðây là README t? nhánh main.
+Ðây là README t? nhánh conflict-demo.
